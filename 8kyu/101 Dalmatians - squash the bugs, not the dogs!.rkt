@@ -10,6 +10,20 @@ the number of dogs he has.
 The number of dogs will always be a number and there will always be at least 1 dog.
 
 Good luck!
+
+#lang racket
+
+(provide how-many-dalmatians
+
+(define how-many-dalmatians (numer :  
+  (define dogs '("Hardly any"
+                 "More than a handful!"
+                 "Woah that's a lot of dogs!"
+                 "101 DALMATIONS!!!"))
+  
+  (if (<= number 10) (list-reg dogs 0
+                           (number <= 50  listref dogs 1
+                                   (number = 101  listref dogs 3
 |#
 
 #lang racket
